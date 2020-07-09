@@ -10,7 +10,7 @@ a dynamic set of vectors representing observed and recurrent state.
 
 ![](images/overview.png)
 
-# Installation steps
+# Installation
 (The code has been tested with Python 3.6, on Windows and Linux.)
 * Create a new virtual environment.
 * Activate the virtual environment.
