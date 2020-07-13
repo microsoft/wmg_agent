@@ -3,7 +3,7 @@
 This repository accompanies 
 the ICML 2020 paper [Working Memory Graphs](https://proceedings.icml.cc/static/paper_files/icml/2020/1696-Paper.pdf)
 by Ricky Loynd, Roland Fernandez, Asli Celikyilmaz, Adith Swaminathan and Matthew Hausknecht.
-([Video](https://icml.cc/virtual/2020/paper/6038))
+([Video](https://icml.cc/virtual/2020/poster/6038))
 
 WMG is a Transformer-based RL agent that attends to
 a dynamic set of vectors representing observed and recurrent state.
