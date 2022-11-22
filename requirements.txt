@@ -1,5 +1,5 @@
 numpy==1.15.4
-Pillow==9.0.0
+Pillow==9.3.0
 pytz==2019.3
 six==1.13.0
 tqdm==4.41.1
